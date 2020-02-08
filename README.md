@@ -37,3 +37,10 @@ Then modified just a little bit to be a starter template for myself, but anyone 
     config: (md) => {
    ```
    For netlify commiting your code will cause an automatic build out to your site.
+
+8. You can also run the commands to build and develop locally before pushing. You tend to want to run the build first before the dev just to see if anything you added gets errors.
+   ```shell
+   yarn docs:build
+   yarn docs:dev
+   ```
+   
