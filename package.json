@@ -1,5 +1,5 @@
 {
-  "name": "VuePressOnGithubPageTemplate",
+  "name": "vuepress-starter",
   "version": "1.0.0",
   "scripts": {
     "docs:dev": "vuepress dev docs",
