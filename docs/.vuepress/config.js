@@ -43,6 +43,7 @@ const sidebarArray = ["/"].concat(dirs.map((dir) => {
 module.exports = {
     title: "VuePress Generated",
     //description : "use for meta description",
+    //base: "/", //Use This for netlify deploy
     base: "/" + process.env.REPOSITORY + "/",
     config: (md) => {
         md.options.linkify = true
