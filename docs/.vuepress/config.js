@@ -49,7 +49,18 @@ module.exports = {
         md.options.linkify = true
     },
     themeConfig: {
-        sidebar: sidebarArray
+        sidebar: sidebarArray,
+        nav: [
+            { text: 'Home', link: '/' },
+            { 
+                text: 'External',
+                items: [
+                    { text: 'Google', link: 'https://google.com' },
+                    { text: 'Vscode', link: 'https://code.visualstudio.com/' },
+                ] 
+            },
+            { text: 'Source', link: 'https://github.com/Datapotomus/vuepress-starter' }
+        ]
     }
 };
 
