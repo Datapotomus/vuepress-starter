@@ -51,7 +51,6 @@ module.exports = {
     themeConfig: {
         sidebar: sidebarArray,
         nav: [
-            { text: 'Home', link: '/' },
             { 
                 text: 'External',
                 items: [
