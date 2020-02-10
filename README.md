@@ -13,6 +13,11 @@ Then modified just a little bit to be a starter template for myself, but anyone 
 2. Create a new repo [New Repo](https://github.com/new) or open your exsisting repo locally.
 3. Clone this repository into your new repository or copy the content from this repo into your exsisting repo.
 4. Make sure to install it as a local dependency. 
+   
+   ```
+   yarn add -D vuepress
+   ```
+
    [https://v1.vuepress.vuejs.org/guide/getting-started.html#inside-an-existing-project](https://v1.vuepress.vuejs.org/guide/getting-started.html#inside-an-existing-project)
 5. Change the .env file to point to your username and github repo.
 6. If you want to deploy your projects to github pages you should be able to execute the deploy.sh as-is.
