@@ -6,10 +6,13 @@ Was taken from the project [here](https://fruitriin.github.io/VuePressOnGithubPa
 Then modified just a little bit to be a starter template for myself, but anyone else can use it. The great thing about the template is that you can leave most of your exsisting project as-is and insert this just for documentation. Isolating it from most of your other project work.
 
 ## Setup Steps
+> You will need to have Node.js installed and preferably using yarn.
 
-1. If you haven't seen the getting started steps on the vuepress site please read through it 
+1. If you haven't seen the getting started steps on the vuepress site please read through it
    
    [https://v1.vuepress.vuejs.org/guide/getting-started.html](https://v1.vuepress.vuejs.org/guide/getting-started.html).
+   
+   
 2. Create a new repo [New Repo](https://github.com/new) or open your exsisting repo locally.
 3. Clone this repository into your new repository or copy the content from this repo into your exsisting repo.
 4. Make sure to install it as a local dependency. 
