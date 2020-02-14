@@ -3,7 +3,7 @@
 
 Was taken from the project [here](https://fruitriin.github.io/VuePressOnGithubPageTemplate/).
 
-Then modified just a little bit to be a starter template for myself, but anyone else can use it.
+Then modified just a little bit to be a starter template for myself, but anyone else can use it. The great thing about the template is that you can leave most of your exsisting project as-is and insert this just for documenation. Isolating it from most of your other project work.
 
 ## Setup Steps
 
